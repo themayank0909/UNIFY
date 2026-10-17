@@ -1,0 +1,7 @@
+{
+  "name": "Unify — University Community & Collaboration Platform",
+  "description": "Connect. Create. Grow. The trusted university ecosystem uniting students, alumni, faculty, clubs, and administrators for collaboration, opportunities, and campus voice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
